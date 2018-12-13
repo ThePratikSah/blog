@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Pratik Sah
+I'm Pratik Sah, a proud Indian programmer who loves programming and trying new technologies. At present, I'm trying my hands on Vue.js and I'm loving it. Follow me on social media.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pratiksah@hotmail.com](mailto:pratiksah@hotmail.com)
